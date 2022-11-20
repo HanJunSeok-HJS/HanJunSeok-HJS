@@ -1,4 +1,3 @@
-
 <!--
 **MoonTaeHo-MTH/MoonTaeHo-MTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="notion.so/Notion-3c00c69d16734a00b3b6d89eaafd7016" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=appvevor&logoColor=white"/></a>
