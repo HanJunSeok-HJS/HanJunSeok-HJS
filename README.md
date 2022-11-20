@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Oracle-E6B91E?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-E6B91E?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
 </p>
 
