@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=HanJunSeok-HJS&show_icons=true&theme=merko) <br>
+![github stats](https://github-readme-stats.vercel.app/api?username=HanJunSeok-HJS&show_icons=true&theme=panda) <br>
 
 📫 : junseok2217@kakao.com <br>
 
