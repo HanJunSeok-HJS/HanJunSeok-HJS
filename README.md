@@ -18,7 +18,7 @@ Frontend: ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badg
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery) <br>
 Backend: ![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=Oracle&logoColor=ffffff)
 Database: <img src="https://img.shields.io/badge/JDBC-FF3621?style=flat-square&logo=DataBricks&logoColor=white">
-![MySQL](https://img.shields.io/badge/-MySQL-4169E1?style=for-the-badge&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-mysql-4169E1?style=for-the-badge&logo=MySQL)
 Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 Networking: <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black">
 Version Control: ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
