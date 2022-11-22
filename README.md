@@ -20,17 +20,17 @@
   <img src="https://img.shields.io/badge/MariaDB-D6C6B6?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
   
   - Frontend: <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"> <br>
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></span>
-<span><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"></span>
-- Backend: <span><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Oracle&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></span>
-- Database: <span><img src="https://img.shields.io/badge/JDBC-FF3621?style=flat-square&logo=DataBricks&logoColor=white"></span>
-- Framework: <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></span>
-- Networking: <span><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"></span>
-- Version Control: <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"></span>
-- Game Engine: <span><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"></span>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+- Backend: <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Oracle&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+- Database: <img src="https://img.shields.io/badge/JDBC-FF3621?style=flat-square&logo=DataBricks&logoColor=white"> <br>
+- Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <br>
+- Networking: <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"> <br>
+- Version Control: <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <br>
+<span><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+- Game Engine: <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"> <br>
 
 </p>
 
