@@ -26,7 +26,12 @@
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonTaeHo&hide_title=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=HanJunSeok-HJS&layout=compact&theme=material-palenight)
+  
 </div>
+
+<div align="center">
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=HanJunSeok-HJS&layout=compact&theme=material-palenight)
+</div>
+
 
 
