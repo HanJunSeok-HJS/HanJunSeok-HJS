@@ -17,9 +17,9 @@ Frontend: ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badg
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery) <br>
 Backend: ![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=Oracle&logoColor=ffffff)
-Database: ![MySQL](https://img.shields.io/badge/-MySQL-4169E1?style=for-the-badge&logo=MySQL)
+Database: ![MySQL](https://img.shields.io/badge/-Mysql-4169E1?style=for-the-badge&logo=MySQL)
 ![Oracle](https://img.shields.io/badge/-Oracle-F05032?style=for-the-badge&logo=Oracle)
-![MriaDB](https://img.shields.io/badge/-MriaDB-FFDEAD?style=for-the-badge&logo=MriaDB)
+![MriaDB](https://img.shields.io/badge/-Mriadb-FFDEAD?style=for-the-badge&logo=MriaDB)
 Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 Networking: <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black">
 Version Control: ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
