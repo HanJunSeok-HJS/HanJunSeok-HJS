@@ -5,6 +5,10 @@
 <a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/junseok2217@naver.com-2DB400?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
 
+### Hi there 👋
+
+![jojoldu's github stats](https://github-readme-stats.vercel.app/api?username=HanJunSeok-HJS&show_icons=true&theme=merko)
+
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 <h3 align="center">📚 Tech Stack 📚</h3>
