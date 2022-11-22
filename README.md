@@ -16,3 +16,4 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-DEB887?style=for-the-badge&logo=MariaDB)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=Oracle&logoColor=ffffff)
+![Apache Tomcat](https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=ffffff)
