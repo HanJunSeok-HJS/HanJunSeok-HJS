@@ -13,6 +13,6 @@
 ![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=Oracle&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL)
 ![Oracle](https://img.shields.io/badge/-Oracle-F05032?style=for-the-badge&logo=Oracle)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=MariaDB)
+![MariaDB](https://img.shields.io/badge/-MariaDB-DEB887?style=for-the-badge&logo=MariaDB)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=Oracle&logoColor=ffffff)
