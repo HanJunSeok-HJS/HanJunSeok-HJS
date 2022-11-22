@@ -11,7 +11,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=JSON)
-![Java](https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=&logoColor=ffffff) <br>
 ![mySQL](https://img.shields.io/badge/-mySQL-4479A1?style=for-the-badge&square&logo=mySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-DEB887?style=for-the-badge&logo=MariaDB)
